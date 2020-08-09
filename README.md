@@ -7,7 +7,7 @@ In this project I use data from Foursquare API and tried to build a Clustering m
 
 Capstone project - The Battle of Neighborhoods - week I.pdf - Introduction - Partial Report. Intrtoduction and Data.  
 Capstone project - The Battle of Neighborhoods - week II.pdf-Complete Project Report - Full Project Report  
-Clustering the Neighbourhoods of Budapest City.IPYNB- Complete Project Notebook - Python Code  
+Clustering the Neighbourhoods of Budapest City.ipynb- Complete Project Notebook - Python Code  
 Final Presentation.pdf- Final presentation  
 
 Data Files  

@@ -1,7 +1,7 @@
 # Coursera_Capstone  
 Git hub repo having the code for Coursera_Capstone project  
 
-# Project files are found in under the folder : Final Capstone Project/  
+# Project files are found under the folder : Final Capstone Project/  
 
 In this project I use data from Foursquare API and tried to build a Clustering model to aid anyone who visits Budapest city in deciding the place of stay based on what each neighborhood has to offer and their personal preferences.  
 

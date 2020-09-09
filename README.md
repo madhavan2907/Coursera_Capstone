@@ -1,9 +1,7 @@
 # Coursera_Capstone  
-Git hub repo having the code for Coursera_Capstone project  
+This repository contains the Capstone project files for IBM Data Science Specialization  
 
-# Project files are found under the folder : Final Capstone Project/  
-
-In this project I use data from Foursquare API and tried to build a Clustering model to aid anyone who visits Budapest city in deciding the place of stay based on what each neighborhood has to offer and their personal preferences.  
+In this project I used data from Foursquare API and tried to build a Clustering model to aid anyone who visits Budapest city in deciding the place of stay based on what each neighborhood has to offer and their personal preferences.  
 
 * [Capstone project - The Battle of Neighborhoods](https://github.com/madhavan2907/Coursera_Capstone/blob/master/Capstone%20project%20-%20The%20Battle%20of%20Neighborhoods.pdf)-Project Report  
 * [Clustering the Neighbourhoods of Budapest City.ipynb](https://github.com/madhavan2907/Coursera_Capstone/blob/master/Clustering%20the%20Neighbourhoods%20of%20Budapest%20City.ipynb)- Complete Project Notebook - Python Code  
